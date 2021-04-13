@@ -1,4 +1,5 @@
-#HCDE410SP21 - A1
+# HCDE410SP21 - A1
+
 Files for HCDE410SP21 - Assigment A1
 
 Adapted from # cdsw-2020 https://wiki.communitydata.science/Seattle_open_data
@@ -27,7 +28,7 @@ queried to look at how applications for construction of single-family homes
 (SFRs), duplexes, and accessory dwelling units (ADUs) have changed over time.
 
 This file produces the output files seattle_new_sfrs.csv,
-seattle_new_duplexes.csv, and seattle_new_adus.csv. Each file contains permit
-number, class, application date, date of completion, and the permit
+seattle_new_duplexes.csv, and seattle_new_adus.csv. Each file contains columns
+for permit number, class, application date, date of completion, and the permit
 description. The queries rely on specific key words being in the decription in
 specific order, and the matching is not incredibly accurate or heavily checked.
